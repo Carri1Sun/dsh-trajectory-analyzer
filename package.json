@@ -35,9 +35,9 @@
  "license": "MIT",
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Carri1Sun/dsh-step-summary.git"
+  "url": "git+https://github.com/Carri1Sun/dsh-trajectory-analyzer.git"
  },
- "homepage": "https://github.com/Carri1Sun/dsh-step-summary",
+ "homepage": "https://github.com/Carri1Sun/dsh-trajectory-analyzer",
  "keywords": [
   "deepseek-harness",
   "dsh",
