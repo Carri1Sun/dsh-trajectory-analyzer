@@ -1,4 +1,6 @@
-# dsh-step-summary
+# dsh-trajectory-analyzer
+
+> Harness 包名仍为 `dsh-step-summary`（Add plugin / 依赖名）。
 
 给 DeepSeek Harness 的 Trajectory 增加一个按步骤生成的语义摘要视图：你可以手动为任意步骤生成「输出摘要」和「输入上下文变化摘要」，并展开查看原始思考、工具调用与上下文新增内容。
 
